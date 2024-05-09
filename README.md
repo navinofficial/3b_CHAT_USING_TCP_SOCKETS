@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-# Reg no:212223230141
 # Name:Navinkumar v
+# Reg no:212223230141
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -35,9 +35,8 @@ while True:
 ```
 ## OUPUT
 ### client:
-![image](https://github.com/navinofficial/3b_CHAT_USING_TCP_SOCKETS/assets/151710204/7c81f181-a923-4efa-bea3-2a61af01ac7f)
+![Screenshot 2024-05-09 135419](https://github.com/navinofficial/3b_CHAT_USING_TCP_SOCKETS/assets/151710204/87856280-611a-4b0d-b5be-0df1ed28d20b)
 ### server:
-![image](https://github.com/navinofficial/3b_CHAT_USING_TCP_SOCKETS/assets/151710204/79101c1a-2794-4133-8f57-da196c358569)
-## RESULT
+![image](https://github.com/navinofficial/3b_CHAT_USING_TCP_SOCKETS/assets/151710204/a187d23f-ec9e-4302-a13b-ceb5f3332188)
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
